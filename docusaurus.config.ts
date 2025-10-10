@@ -23,7 +23,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'bakomate2', // Usually your GitHub org/user name.
-  projectName: '', // Usually your repo name.
+  projectName: 'elte-ik-docs', // Usually your repo name.
 
   onBrokenLinks: 'warn',
 
