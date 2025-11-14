@@ -8,7 +8,7 @@ sidebar_position: 1
 Here you can find the Analysis II short tests.
 
 - **Already Done**: Previously completed tests
-- **05-12**: Short tests for the current semester
+- **08-12**: Short tests for the current semester
 
 Each test is numbered to match the corresponding required material and includes three PDFs:
 
