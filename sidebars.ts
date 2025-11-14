@@ -52,10 +52,11 @@ const sidebars: SidebarsConfig = {
                     'elte-ik/analizis-ii/ropzh/already-done/04',
                     'elte-ik/analizis-ii/ropzh/already-done/05',
                     'elte-ik/analizis-ii/ropzh/already-done/06',
-                    'elte-ik/analizis-ii/ropzh/already-done/07'
+                    'elte-ik/analizis-ii/ropzh/already-done/07',
+                    'elte-ik/analizis-ii/ropzh/already-done/08',
+
                   ],
                 },
-                'elte-ik/analizis-ii/ropzh/08',
                 'elte-ik/analizis-ii/ropzh/09',
                 'elte-ik/analizis-ii/ropzh/10',
                 'elte-ik/analizis-ii/ropzh/11',
